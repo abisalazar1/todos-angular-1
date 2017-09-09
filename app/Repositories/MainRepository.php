@@ -20,7 +20,7 @@ abstract class MainRepository {
 
      public function addRecord ($attributes)
      {
-         return $this->model->FirstOrCreate($attributes);
+         return $this->model->create($attributes);
      }
 
      public function updateRecord ($attributes, $id)
