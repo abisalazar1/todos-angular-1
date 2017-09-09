@@ -1,8 +1,8 @@
 # todos laravel and angular
 
-this is just a simple app that developed.
+This is just a simple app.
 
-note: I did not change the default welcome page.
+note: I did not change the default laravel welcome page.
 
 You can login using the following credentials.
 
